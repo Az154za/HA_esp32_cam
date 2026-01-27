@@ -1,0 +1,48 @@
+esphome:
+  name: esp32-cam
+  platform: ESP32
+  board: esp32cam
+
+wifi:
+  ssid: "Your_WiFi_SSID"
+  password: "Your_WiFi_Password"
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "your_encryption_key_here"
+
+ota:
+  password: "your_ota_password"
+
+# Camera configuration
+esp32_camera:
+  external_clock:
+    pin: GPIO0
+    frequency: 20MHz
+  i2c_pins:
+    sda: GPIO26
+    scl: GPIO27
+  data_pins: [GPIO5, GPIO18, GPIO19, GPIO21, GPIO36, GPIO39, GPIO34, GPIO35]
+  vsync_pin: GPIO25
+  href_pin: GPIO23
+  pixel_clock_pin: GPIO22
+  power_down_pin: GPIO32
+  
+  name: "ESP32-CAM"
+  resolution: 800x600
+  jpeg_quality: 10
+
+# Flashlight
+output:
+  - platform: gpio
+    pin: GPIO4
+    id: gpio_4
+
+light:
+  - platform: binary
+    output: gpio_4
+    name: "ESP32-CAM Flashlight"
