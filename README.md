@@ -14,6 +14,8 @@ and there it is
 - esp32 cam model : 3,59 dollar
 - antenna : about 3.4 dollars
 - Total cost : 7 dollars
+# Future ideas :
+- make it record ( on motion for data saving ) 
 # Images for the project : 
 
 
