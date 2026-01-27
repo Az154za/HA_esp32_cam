@@ -13,7 +13,7 @@ and there it is
 # BOM : 
 - esp32 cam model : 3,59 dollar
 - antenna : about 3.4 dollars
-  Total cost : 7 dollars
+- Total cost : 7 dollars
 # Images for the project : 
 
 
