@@ -16,6 +16,20 @@ and there it is
 - Total cost : 7 dollars
 # Future ideas :
 - make it record ( on motion for data saving ) 
+# This is my 3D case that I made on my own : 
+
+<img width="973" height="593" alt="3D model" src="https://github.com/user-attachments/assets/d2889808-e25e-4cfa-9554-6bce630affbc" />
+
+
+<img width="1031" height="601" alt="3D_model_2" src="https://github.com/user-attachments/assets/6df20557-2859-4491-a86e-17f5475756af" />
+
+# pins and schematic if needed :
+
+
+<img width="617" height="791" alt="pins_and_schematic" src="https://github.com/user-attachments/assets/54e65064-4c89-4821-a4e3-ad05e2f48b40" />
+
+This image was taken from a datasheets I founded I would be an interest for those who doesn't have the camera module micro usb here's a link :
+https://www.handsontec.com/dataspecs/module/ESP32-CAM.pdf
 # Images for the project : 
 
 
