@@ -18,10 +18,8 @@ and there it is
 - make it record ( on motion for data saving ) 
 # This is my 3D case that I made on my own : 
 
-<img width="973" height="593" alt="3D model" src="https://github.com/user-attachments/assets/d2889808-e25e-4cfa-9554-6bce630affbc" />
+<img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/d8a37031-e6e4-4d93-8cb1-1a9986df39a0" />
 
-
-<img width="1031" height="601" alt="3D_model_2" src="https://github.com/user-attachments/assets/6df20557-2859-4491-a86e-17f5475756af" />
 
 # pins and schematic if needed :
 
@@ -33,11 +31,8 @@ https://www.handsontec.com/dataspecs/module/ESP32-CAM.pdf
 # Images for the project : 
 
 
-<img width="1270" height="701" alt="Picture" src="https://github.com/user-attachments/assets/1546f3a8-692f-40c9-9b18-13d688469c38" />
+<img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/184e32fd-5d27-44e0-a17a-9bc6faca1866" />
 
-![IMG_20260127_202520](https://github.com/user-attachments/assets/0318ebea-49a7-4366-ac9a-84ed9b191486)
-
-![IMG_20260127_201215](https://github.com/user-attachments/assets/382245f0-34a2-4b9a-8c32-dc5c023c73c3)
 
 
 I hope you like this mini project 
