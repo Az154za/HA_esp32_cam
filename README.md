@@ -31,7 +31,8 @@ https://www.handsontec.com/dataspecs/module/ESP32-CAM.pdf
 # Images for the project : 
 
 
-<img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/184e32fd-5d27-44e0-a17a-9bc6faca1866" />
+![IMG_20260305_150733](https://github.com/user-attachments/assets/72fa100b-b5b9-4161-9dca-bddf9b3c71d1)
+
 
 
 
